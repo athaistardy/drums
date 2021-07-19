@@ -34,7 +34,7 @@ h1 {
     font-weight: bold;
 }
 .key.active {
-    border: 2px solid #FF0;
+    border: 2px solid rgb(27, 221, 211);
     color: #FF0;
 }
 
