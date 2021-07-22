@@ -1,6 +1,6 @@
 # Projeto Bateria
 
-Projeto desenvolvido durante o evento "7 dias, 7 projetos" da B7Web!
+Projeto 01 desenvolvido durante o evento "7 dias, 7 projetos" da B7Web!
 
 ### Imagem do Projeto:
 
