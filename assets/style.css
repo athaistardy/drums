@@ -38,6 +38,22 @@ h1 {
     color: #FF0;
 }
 
+.key.random {
+    animation: 0.3s bgrandom infinite; 
+}
+
+@keyframes bgrandom {
+    0% { background: rgba(126, 233, 104, 0.98); border: 2px solid rgba(126, 233, 104, 0.98); }
+    50% {  background: rgba(231, 29, 29, 0.98) ; border: 2px solid rgba(231, 29, 29, 0.98) }
+
+    55% {  background: rgba(38, 23, 247, 0.98) ; border: 2px solid rgba(38, 23, 247, 0.98) ; }
+    80% {  background: rgba(61, 219, 247, 0.98) ; border: 2px solid rgba(61, 219, 247, 0.98) ; }
+
+    85% {  background: rgba(238, 33, 170, 0.98) ; border: 2px solid rgba(238, 33, 170, 0.98) ;}
+    100% { background: rgba(252, 229, 25, 0.98) ; border: 2px solid rgba(252, 229, 25, 0.98) ;;}
+    }
+    
+
 .composer {
     width: 260px;
     margin-top: 20px;
